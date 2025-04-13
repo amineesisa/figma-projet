@@ -1,6 +1,6 @@
 body {
-    overflow-x: hidden; /* OK pour bloquer le scroll horizontal */
-    overflow-y: auto;   /* ✅ permet de scroller verticalement */
+    overflow-x: hidden; 
+    overflow-y: auto; 
     display: flex;
     flex-direction: column;
     font-family: "DM Sans", sans-serif;
